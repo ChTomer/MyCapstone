@@ -13,8 +13,7 @@ The dataset is sourced from [Kaggle](https://www.kaggle.com/datasets/rohitrox/he
 - Outpatient claims
 - Labels marking claims suspected of fraud
 
-For more details, you can check out the presentation slides available in this [project slides](https://drive.google.com/drive/u/0/folders).
-# *EDIT THIS LINK*
+For more details, you can check out the presentation slides available in this [project slides](https://drive.google.com/file/d/1jPnMJNZRz9oQVxCP3VmEwOjEiFoHIbL3/view?usp=sharing).
 
 The dataset includes a few different CSV files:
 
@@ -68,14 +67,3 @@ The dataset includes a few different CSV files:
 - Seaborn
 - Scikit-learn
 - Jupyter Notebook
-
-## References
-
-All sources and quotes are listed clearly within the presentation.
-
-## What's next?
-
-- Try other machine learning methods (e.g., Random Forest, XGBoost).
-- Understand and apply Unsupervised learning techniques.
-- Consider larger datasets and look into real-time fraud detection methods.
-
