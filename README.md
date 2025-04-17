@@ -15,13 +15,6 @@ The dataset is sourced from [Kaggle](https://www.kaggle.com/datasets/rohitrox/he
 
 For more details, you can check out the presentation slides available in this [project slides](https://drive.google.com/file/d/1jPnMJNZRz9oQVxCP3VmEwOjEiFoHIbL3/view?usp=sharing).
 
-The dataset includes a few different CSV files:
-
-- Beneficiary details
-- Inpatient claims
-- Outpatient claims
-- Labels marking claims suspected of fraud
-
 ## What did I try to achieve?
 
 - Understand the data better by exploring and visualizing it.
@@ -34,7 +27,7 @@ The dataset includes a few different CSV files:
 ### Data Cleaning and Preprocessing
 
 - Fixed missing values and removed duplicates.
-- Changed categorical data into numbers.
+- Converted categorical data into numerical format and transformed date fields from object type to datetime format.
 - Scaled numerical data to make it easier to work with.
 
 ### Exploratory Data Analysis (EDA)
